@@ -1,1 +1,3423 @@
-
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "@id": "https://example.org/collection.json",
+    "label": "abolition now.",
+    "items": [
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0266_dontbeashitass/manifest.json",
+            "label": "\"Don't Be A Shitass\""
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0082_landback/manifest.json",
+            "label": "\"Everything for everyone. Nothing for ourselves.\""
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0242_toabolition/manifest.json",
+            "label": "#8toAbolition"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0233_abolitionnow/manifest.json",
+            "label": "#AbolitionNow!"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0233_asiansforabolition/manifest.json",
+            "label": "#AsiansforAbolition"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0189_0190_educationisnotacrime/manifest.json",
+            "label": "#EducationIsNotACrime: Nightingale"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0233_freebresha/manifest.json",
+            "label": "#FreeBresha"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0106_freeouryouth/manifest.json",
+            "label": "#FreeOurYouth"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0233_freethemall/manifest.json",
+            "label": "#FreeThemAll!!!"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0142_pareoabusodepoder/manifest.json",
+            "label": "#Pare O Abuso De Poder "
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0233_sayhername/manifest.json",
+            "label": "#SayHerName"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0233_sayhernamebreonna/manifest.json",
+            "label": "#SayHerName #BreonnaTaylor"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_copcarfirelyonfrance/manifest.json",
+            "label": "1312 Cop Car on Fire France"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0009_policefreeschools/manifest.json",
+            "label": "1968 Harrison High School Student Uprising"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0152_nownotforever/manifest.json",
+            "label": "2020 Now But Not Forever"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0150_0151_policisajoke/manifest.json",
+            "label": "911's a Joke!"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0219_abetterworld/manifest.json",
+            "label": "A Better World Will Bloom without Police"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0116_achangeiscoming/manifest.json",
+            "label": "A Change is Coming"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif//manifest.json",
+            "label": "A Day in my Life on the Row"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0073_afreecuba/manifest.json",
+            "label": "A Free Cuba To Palestine"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0226_anewworld/manifest.json",
+            "label": "A New World in Our Hearts"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0043_anewworld/manifest.json",
+            "label": "A New World is Ours to Build"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0051_policevanonfire/manifest.json",
+            "label": "A Symbol of Pain and Frustration"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0240_aworldwithoutwalls/manifest.json",
+            "label": "A World Without Walls"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0242_aworld/manifest.json",
+            "label": "A World without Prisons or Police"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0229_trumpetcaracab/manifest.json",
+            "label": "ACAB"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0258_acabftp/manifest.json",
+            "label": "ACAB/FTP"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0238_abolishthepolice/manifest.json",
+            "label": "Abolish "
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0029_abolishborderimperialism/manifest.json",
+            "label": "Abolish Border Imperialism I"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0029_abolitionconferenceposter/manifest.json",
+            "label": "Abolish Border Imperialism II"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0237_fightingback/manifest.json",
+            "label": "Abolish Milwaukee Police"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0237_burningcopcar/manifest.json",
+            "label": "Abolish Milwaukee Police"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0237_policebeat/manifest.json",
+            "label": "Abolish Milwaukee Police"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_abolishpolice/manifest.json",
+            "label": "Abolish Police"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0258_abolishpolice/manifest.json",
+            "label": "Abolish Police"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0233_nojusticenopeace/manifest.json",
+            "label": "Abolish Police"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0258_abolishprison/manifest.json",
+            "label": "Abolish Prison"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0124_abolishprisons/manifest.json",
+            "label": "Abolish Prisons"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0101_abolishprisons/manifest.json",
+            "label": "Abolish Prisons!"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0233_abolishthepolice/manifest.json",
+            "label": "Abolish the Police"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_abolishthepolice/manifest.json",
+            "label": "Abolish the Police"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0055_abolishthepolice/manifest.json",
+            "label": "Abolish the Police"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0008_missingamericans/manifest.json",
+            "label": "Abolish the Prison Industrial Complex"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0043_abolishthesystems/manifest.json",
+            "label": "Abolish the Systems"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0233_abolishingfampolicing/manifest.json",
+            "label": "Abolishing Family Policing"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0233_abolishchildwelfaresystem/manifest.json",
+            "label": "Abolishing the Child Welfare System "
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0227_abolition/manifest.json",
+            "label": "Abolition"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0233_guncontrolabolition/manifest.json",
+            "label": "Abolition"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0089_abolition/manifest.json",
+            "label": "Abolition"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0236_abolition/manifest.json",
+            "label": "Abolition"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0233_abolitionwithrob/manifest.json",
+            "label": "Abolition 101"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0044_abolitiondemandsimagination/manifest.json",
+            "label": "Abolition Demands Imagination"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0233_abolitionfeminism/manifest.json",
+            "label": "Abolition Feminism "
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0044_abolitionnow/manifest.json",
+            "label": "Abolition Now"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0004_abolitionnow/manifest.json",
+            "label": "Abolition Now"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0013_abolitionisalovelanguage/manifest.json",
+            "label": "Abolition is a Love Language"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0054_abolitionanswer/manifest.json",
+            "label": "Abolition is the Only Answer"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0233_abolitionistorganizing/manifest.json",
+            "label": "Abolitionist Organizing"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0233_abolitionistsocialwork/manifest.json",
+            "label": "Abolitionist Social Work"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0233_abolitionsocialwork/manifest.json",
+            "label": "Abolitionist Social Work "
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0225_abusingyourgfcopbehavior/manifest.json",
+            "label": "Abusing Your Girlfriend is Cop Behavior"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0174_hamidabarmakimemorialmural/manifest.json",
+            "label": "Activist Hamida Barmaki Memorial Mural "
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0233_fostercareabolition/manifest.json",
+            "label": "Adoption & Foster Care Abolition"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_housekeysnothandcuffs/manifest.json",
+            "label": "Affordable Housing/Vivienda Asequible"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_georgefloydindonesia/manifest.json",
+            "label": "Against Racism "
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0003_threeprinciples/manifest.json",
+            "label": "Agitate-Educate-Organize"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0158_ahedtamimi/manifest.json",
+            "label": "Ahed Tamimi "
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_allcolorsarebeautiful/manifest.json",
+            "label": "All Colors Are Beautiful, Police Pig Italy"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_alllifeforms/manifest.json",
+            "label": "All Life Forms"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0037_allthatissolid/manifest.json",
+            "label": "All That is Solid Melts Into Air"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0229_mutualaid/manifest.json",
+            "label": "All We Have is Each Other"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0233_abolitionistperspective/manifest.json",
+            "label": "An Abolitionist Perspective on Movements for Black Liberation"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0087_anishinaabesolidarity/manifest.json",
+            "label": "Anishinaabe Solidarity"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0001_anotherworldispossible/manifest.json",
+            "label": "Another World Is Possible"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0038_anotherworldispossible/manifest.json",
+            "label": "Another World is Possible"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0254_anotherworldispossible/manifest.json",
+            "label": "Another World is Possible"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0124_anotherworldispossible/manifest.json",
+            "label": "Another World is Possible"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0129_anotherworldispossible/manifest.json",
+            "label": "Another World is Possible "
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0224_anthonythompsonkpd/manifest.json",
+            "label": "Anthony Thompson, Jr. "
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0349_antibordercontrolchancla/manifest.json",
+            "label": "Anti Border Control Chancla"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0349_antinazisalutechancla/manifest.json",
+            "label": "Anti Nazi Salute Chancla"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0214_septimusapokaluptein/manifest.json",
+            "label": "Apokaluptein:16389067:II"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0156_areyoulistening/manifest.json",
+            "label": "Are You Listening?"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_disarmcopstucsonaz/manifest.json",
+            "label": "Arm Trans Women Disarm Cops"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0227_artandaction/manifest.json",
+            "label": "Art and Action for Abolition"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0005_southerntransresistance/manifest.json",
+            "label": "Art of Trans Liberation"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0233_asianblacklib/manifest.json",
+            "label": "Asian American Call with Movement for Black Lives"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0129_assatashakur/manifest.json",
+            "label": "Assata Shakur "
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0239_themasterstools/manifest.json",
+            "label": "Audre Lorde"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0225_bipocwomengomissing/manifest.json",
+            "label": "BIPOC Women Go Missing"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0143_babywithahandgun/manifest.json",
+            "label": "Baby With a Handgun I"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0066_bluesky/manifest.json",
+            "label": "Backbend"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0320_benotafraidofchange/manifest.json",
+            "label": "Be Not Afraid of Change"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0264_homelessnotacrime/manifest.json",
+            "label": "Being Homeless is Not a Crime"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0122_believeintogether/manifest.json",
+            "label": "Believe in Together"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0185_dauntewrightbelovedmemorialmural/manifest.json",
+            "label": "Beloved"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0003_beyondprison/manifest.json",
+            "label": "Beyond Prisons"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0033_dreamingfreedombirdwire/manifest.json",
+            "label": "Birds Breaking Free"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0056_blackaugustbail/manifest.json",
+            "label": "Black August Bail Fund"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0063_blackgirlsdeserveprotection/manifest.json",
+            "label": "Black Girls Deserve Protection"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0165_georgefloydireland/manifest.json",
+            "label": "Black Lives Matter"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0195_0196_blmstopasianhate/manifest.json",
+            "label": "Black Lives Matter/Stop Asian Hate"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0063_blackresistancelightstheway/manifest.json",
+            "label": "Black Resistance Lights the Way"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_bluelivesmurdersydney/manifest.json",
+            "label": "Blue Lives Murder"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0129_bluewallofsilence/manifest.json",
+            "label": "Blue Wall of Silence "
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0132_blueformattar/manifest.json",
+            "label": "Blue for Mattar"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0131_blueisthecolorwesee/manifest.json",
+            "label": "Blue is the Color We See Before We Die"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0265_boink/manifest.json",
+            "label": "Boink!"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0233_bookmobile/manifest.json",
+            "label": "Book Mobile"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0255_breakout/manifest.json",
+            "label": "Breakout"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0121_breaksthechain/manifest.json",
+            "label": "Breaks the Chains"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0180_bringlifetogether/manifest.json",
+            "label": "Bring Life Together"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0070_bubblewraplockdown/manifest.json",
+            "label": "Bubblewrap Lockdown"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0001_budgetpriorities/manifest.json",
+            "label": "Budget Priorities"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0277_buffalotown/manifest.json",
+            "label": "Buffalotown"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0237_buildshowpower/manifest.json",
+            "label": "Build Power Show Power"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0075_buildschools/manifest.json",
+            "label": "Build Schools Not Prisons"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0121_0246_0247_peoplepower/manifest.json",
+            "label": "Building People Power"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0020_burnitalldown/manifest.json",
+            "label": "Burn It All Down"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0258_burnjailsburnthejuvie/manifest.json",
+            "label": "Burn Jails Burn the Juvie!"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0153_burningcopcarportugal/manifest.json",
+            "label": "Burning Cop Car in Portugal"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0026_queerrage/manifest.json",
+            "label": "Burns Like Queer Rage"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0128_callsfromhome/manifest.json",
+            "label": "Calls From Home I"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0128_0129_callsfromhomeposter/manifest.json",
+            "label": "Calls From Home Poster"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_capitalismdestroys/manifest.json",
+            "label": "Capitalism Destroys the World!!"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0019_carenotcops/manifest.json",
+            "label": "Care Not Cops"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_carlomemorial/manifest.json",
+            "label": "Carlo Giuliani "
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_ceasefire/manifest.json",
+            "label": "Ceasefire"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0175_screamingincharcoal/manifest.json",
+            "label": "Chalk and Charcoal in Gaza"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0004_0121_chicagoforabolition/manifest.json",
+            "label": "Chicago, IL, USA for Abolition"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0181_0182_chopsticksinabundle/manifest.json",
+            "label": "Chopsticks in a Bundle Are Unbreakable"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0234_closeeverycage/manifest.json",
+            "label": "Close Every Cage"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0198_closeyouthprisons/manifest.json",
+            "label": "Close Youth Prisons Build Youth Leaders!"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0157_acabcairo/manifest.json",
+            "label": "Combat"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_comedemocracia/manifest.json",
+            "label": "Come Democracia"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_communitiesnotcorporations/manifest.json",
+            "label": "Communities Not Corporations"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0024_buildstrongcommunities/manifest.json",
+            "label": "Communities United for a Responsible Budget"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_adamageorgefrance/manifest.json",
+            "label": "Contre Le Racisme et les Violences Polici\u00e8res"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_brokenwindowcarfire/manifest.json",
+            "label": "Cop Car on Fire in Buljarice"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_policevanfirepoland/manifest.json",
+            "label": "Cop Car on Fire in Koszalin "
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_burningcarenmore/manifest.json",
+            "label": "Cop Car on Fire in Sydney"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_sydneycopcarfiremidmural/manifest.json",
+            "label": "Cop Car on Fire in Sydney"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0042_copsdontbelong/manifest.json",
+            "label": "Cops Don't Belong in Labor"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0035_0036_copsoutofschools/manifest.json",
+            "label": "Cops Out of Schools"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0225_copsperpetuateviolence/manifest.json",
+            "label": "Cops Perpetuate Violence"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0233_covidmassincarceration/manifest.json",
+            "label": "Covid-19 & the Fight Against Mass Incarceration"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0124_coviddemands/manifest.json",
+            "label": "Covid-19 Demands"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0233_coviddecarceration/manifest.json",
+            "label": "Covid-19, Decarceration, & Abolition"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0264_crimeexpressneed/manifest.json",
+            "label": "Crime is an Expression of Unmet Need"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0116_criminalizingabortion/manifest.json",
+            "label": "Criminalizing Abortion Impacts ALL"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0159_daddychangedtheworld/manifest.json",
+            "label": "Daddy Changed the World"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_gokupolicepigserbia/manifest.json",
+            "label": "Das Drogen Police Dept"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0187_dauntewrightmemorialmural/manifest.json",
+            "label": "Daunte Wright, 2000-2021"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0038_dayofrage/manifest.json",
+            "label": "Day of Rage"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0114_decolonizationworldbuilding/manifest.json",
+            "label": "Decolonization and World Building"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0073_decolonizeart/manifest.json",
+            "label": "Decolonize Art"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0081_decolonizejustice/manifest.json",
+            "label": "Decolonize Justice"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0081_decolonizemaiz/manifest.json",
+            "label": "Decolonize Ma\u00edze"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0025_deepeninabolition/manifest.json",
+            "label": "Deepen in Abolition"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0279_deerwomxn/manifest.json",
+            "label": "Deer Womxn"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0233_stopcopcity/manifest.json",
+            "label": "Defend Atlanta Forest!"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0219_defendblacklife/manifest.json",
+            "label": "Defend Black Life"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0085_defendthelandtort/manifest.json",
+            "label": "Defend Land Defenders"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0091_defendlanddefenders/manifest.json",
+            "label": "Defend Land Defenders!"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0004_defendourcommunities/manifest.json",
+            "label": "Defend Our Communities, Defund Police"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0237_defendpubliceducation/manifest.json",
+            "label": "Defend Public Education"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0237_defendeducationmural/manifest.json",
+            "label": "Defend Public Education"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0081_defendtheland/manifest.json",
+            "label": "Defend The Land"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0082_defendthesacred/manifest.json",
+            "label": "Defend The Sacred"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0078_defendthesacred/manifest.json",
+            "label": "Defend The Sacred"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0237_defendtheneighborhood/manifest.json",
+            "label": "Defend the Neighborhood"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0246_defendinglandandlife/manifest.json",
+            "label": "Defending Land and Life"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0139_defundthepolice/manifest.json",
+            "label": "Defund The Police Invest In Community "
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0045_defundthepolice/manifest.json",
+            "label": "Defund the Police"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_porkypigpolice/manifest.json",
+            "label": "Defund the Police"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_defundpoliceasheville/manifest.json",
+            "label": "Defund the Police Street Mural"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0055_defundingpoliceisrj/manifest.json",
+            "label": "Defunding Police is Reproductive Justice"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0110_deportinganddetaining/manifest.json",
+            "label": "Deporting and Detaining Parents Shatters Families"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0025_unlearnpunishment/manifest.json",
+            "label": "Deprioritize Punishment"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0078_destroyallpipelines/manifest.json",
+            "label": "Destroy All the Pipelines"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_destroythatwhichdestroys/manifest.json",
+            "label": "Destroy That Which Destroys You"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0005_0074_disabilityjustice/manifest.json",
+            "label": "Disability Justice"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0233_djandabolition/manifest.json",
+            "label": "Disability Justice & Abolition"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0233_djabolitionfukui/manifest.json",
+            "label": "Disability Justice & Abolition"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_disarmpolice/manifest.json",
+            "label": "Disarm Police: Cops Murder & Mutilate Us"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0100_dismantleprisons/manifest.json",
+            "label": "Dismantle Prisons"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0053_dismantleice/manifest.json",
+            "label": "Dismantle and Defund"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0265_disruptcapitalism/manifest.json",
+            "label": "Disrupt Capitalism"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0025_divestfrommilitarism/manifest.json",
+            "label": "Divest From Militarism"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0057_divinerage/manifest.json",
+            "label": "Divine Rage"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0186_dontkneelonme/manifest.json",
+            "label": "Don't Kneel On Me"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0082_dontshoot/manifest.json",
+            "label": "Don't Shoot"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0241_donttalktothefbi/manifest.json",
+            "label": "Don't Talk"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0129_0289_whenwefightwewin/manifest.json",
+            "label": "Dragon Abolition"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0024_dumpprisonstock/manifest.json",
+            "label": "Dump the Prison Stock!"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0020_dumpsterfire/manifest.json",
+            "label": "Dumpster Fire"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0003_educationcostsless/manifest.json",
+            "label": "Education Costs Way Less Than Prisons"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0188_educationisnotacrime/manifest.json",
+            "label": "Education Is Not a Crime"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0078_elderssaynomvp/manifest.json",
+            "label": "Elders Say No MVP"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0221_elementsofcarceral/manifest.json",
+            "label": "Elements of Carceral Systems"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_emergenciesneedarts/manifest.json",
+            "label": "Emergencies Need Arts"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0024_endprisonslavery/manifest.json",
+            "label": "End Prison Slavery"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0053_endtransdetention/manifest.json",
+            "label": "End Trans Detention"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0089_endimmigrationdetention/manifest.json",
+            "label": "End, Abolish, Dismantle"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0233_endfamilysurveillance/manifest.json",
+            "label": "Ending Family Surveillance"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0018_endinganera/manifest.json",
+            "label": "Ending an Era"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0134_ericgarnermemorialsite/manifest.json",
+            "label": "Eric Garner Memorial Site Mural"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0046_0047_everyfireneedshelp/manifest.json",
+            "label": "Every Fire Needs a Little Bit of Help"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0055_everythingback/manifest.json",
+            "label": "Everything Back"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_eyesmolotov/manifest.json",
+            "label": "Eyes of the Molotov Cocktail"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0154_ftp/manifest.json",
+            "label": "FTP"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_ftpnycpasteups/manifest.json",
+            "label": "FTP"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0082_familyisresistance/manifest.json",
+            "label": "Family Is Resistance"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0317_fawn/manifest.json",
+            "label": "Fawn"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_fightcops/manifest.json",
+            "label": "Fight Cops"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0005_freecece/manifest.json",
+            "label": "Fight Like Hell"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0022_0024_studentsdeserve/manifest.json",
+            "label": "Fight for the Schools All Students Deserve"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0229_fightthecops/manifest.json",
+            "label": "Fight the Cops"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0027_fireclearstheway/manifest.json",
+            "label": "Fire Clears the Way"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0229_firetotheprisons/manifest.json",
+            "label": "Fire to the Prisons"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0258_firetotheprisons/manifest.json",
+            "label": "Fire to the Prisons"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0003_kaboom/manifest.json",
+            "label": "For A Society Without Prisons"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0088_forourroots/manifest.json",
+            "label": "For Our Roots And Our Seeds"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0229_forthereebels/manifest.json",
+            "label": "For the Rebels"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0322_foreverandaday/manifest.json",
+            "label": "Forever and a Day"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0135_freddiegraymural/manifest.json",
+            "label": "Freddie Gray Memorial Mural "
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0266_freeleonardpelter/manifest.json",
+            "label": "Free Leonard Peltier"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0129_freemumia/manifest.json",
+            "label": "Free Mumia I"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0102_0104_freeourelders/manifest.json",
+            "label": "Free Our Elders"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0015_0013_freeourmamas/manifest.json",
+            "label": "Free Our Mamas"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0124_freeourpeople/manifest.json",
+            "label": "Free Our People"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0124_freeourpeoplefromphillyjails/manifest.json",
+            "label": "Free Our People from Philly Jails"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0265_aaronbushnellfreepal/manifest.json",
+            "label": "Free Palestine"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0103_0104_freethem4publichealth/manifest.json",
+            "label": "Free Them 4 Public Health"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0044_freethemall/manifest.json",
+            "label": "Free Them All"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0063_freethemall/manifest.json",
+            "label": "Free Them All"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0005_freethemall/manifest.json",
+            "label": "Free Them All"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0062_teardownyourprisons/manifest.json",
+            "label": "Free Them All "
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0055_freetheamazon/manifest.json",
+            "label": "Free the Amazon"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0055_freethefunds/manifest.json",
+            "label": "Free the Funds"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0102_0103_0104_combination/manifest.json",
+            "label": "Free/Furlough/Elders"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0237_freedomdream/manifest.json",
+            "label": "Freedom"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0028_abolitionwithbarbedwire/manifest.json",
+            "label": "Freedom Flying"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0013_0041_freedomsmellslike/manifest.json",
+            "label": "Freedom Smells Like My Daughters"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_birdsbreakbarbedwire/manifest.json",
+            "label": "From Bricks to Birds"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0087_fromturtleisland/manifest.json",
+            "label": "From Turtle Island to Palestine"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0265_palestinefromtheriver/manifest.json",
+            "label": "From the River to the Sea"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_fromtherivertothesea/manifest.json",
+            "label": "From the River to the Sea "
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_dallaspdfuck12/manifest.json",
+            "label": "Fuck 12"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0265_acabbaby/manifest.json",
+            "label": "Fuck Cops ACAB"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0224_fuckkpdsilver/manifest.json",
+            "label": "Fuck KPD (In Silver)"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0224_fuckkpdyellow/manifest.json",
+            "label": "Fuck KPD (In Yellow)"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0055_fuckpolicelandback/manifest.json",
+            "label": "Fuck Police Land Back End Tourism"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0044_fuckvpd/manifest.json",
+            "label": "Fuck VPD"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_fuckyourborders/manifest.json",
+            "label": "Fuck Your Borders"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0223_fuckyourprofitssydney/manifest.json",
+            "label": "Fuck Your Profits"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_puertoaallartamexicogeorgefloyd/manifest.json",
+            "label": "George Floyd"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_georgefloydvenezuela/manifest.json",
+            "label": "George Floyd"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0201_0202_0203_georgefloydsunflower/manifest.json",
+            "label": "George Floyd Memorial Site"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0138_georgefloydmemorialsitemural/manifest.json",
+            "label": "George Floyd Memorial Site Mural"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_georgefloydontattooparlor/manifest.json",
+            "label": "George Floyd on Tattoo Parlor"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_georgefloydeyesla/manifest.json",
+            "label": "George Floyd's Eyes, Greyscale "
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0129_georgejackson/manifest.json",
+            "label": "George Jackson "
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0119_getoutofmycity/manifest.json",
+            "label": "Get Out of My City"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0169_giveusflowers/manifest.json",
+            "label": "Give Us Our Flowers Now"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0233_globalprisonrebellions/manifest.json",
+            "label": "Global Prison Rebellions & Racial Capitalism"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0044_growplantsnotprisons/manifest.json",
+            "label": "Glow Plants Not Prisons"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0001_goodnightmoon/manifest.json",
+            "label": "Goodnight Moon"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0266_grandmotherpinchpot/manifest.json",
+            "label": "Grandmother Making Pinch Pot"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0178_hakigeorgefloydkenya/manifest.json",
+            "label": "Haki (Swahili for Justice)"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0244_handsoffourkids/manifest.json",
+            "label": "Hands Off"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_handsoffhomesberlin/manifest.json",
+            "label": "Hands Off Our Homes"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0129_handsupdontshoot/manifest.json",
+            "label": "Hands Up Don't Shoot "
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0233_harmreductionabolition/manifest.json",
+            "label": "Harm Reduction, Abolition, & Social Work"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0120_harvestingthewisdom/manifest.json",
+            "label": "Harvesting the Wisdom of Our Ancestors"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_hatevicpol/manifest.json",
+            "label": "Hate Vic Police"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0216_noletcherprisonhellbender/manifest.json",
+            "label": "Here's How"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0244_holdmybeer/manifest.json",
+            "label": "Hold My Beer"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0237_holdontohope/manifest.json",
+            "label": "Hold on to Hope"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0112_brighteningtheholidays/manifest.json",
+            "label": "Holidays for Your Buds Behind Bars"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0027_honkactiviststreetbands/manifest.json",
+            "label": "Honk! Festival of Activist Street Bands"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0055_honoringindigenous/manifest.json",
+            "label": "Honoring Indigenous and Afro Ancestry Within Latine Community"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0246_hope/manifest.json",
+            "label": "Hope"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0004_hopeisadiscipline/manifest.json",
+            "label": "Hope Is A Discipline"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0063_housingkeepsyouthfree/manifest.json",
+            "label": "Housing Keeps Youth Free"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0208_housingnothandcuffs/manifest.json",
+            "label": "Housing Not Handcuffs"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_housingisahumanright/manifest.json",
+            "label": "Housing is a Human Right!"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_housingisahumanrightkalamazoomi/manifest.json",
+            "label": "Housing is a Human Right! "
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0233_genderstructuresprison/manifest.json",
+            "label": "How Gender Structures the Prison System"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0010_0011_howyoucanhelp/manifest.json",
+            "label": "How You Can Help"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0141_humanityoverhate/manifest.json",
+            "label": "Humanity over Hate"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0256_hurryitsthepigs/manifest.json",
+            "label": "Hurry, It's the Pigs!"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0022_0023_0024_iamtv/manifest.json",
+            "label": "I Am Trayvon Martin"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0005_seemyneighbors/manifest.json",
+            "label": "I See My Neighbors"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0013_0026_istandup/manifest.json",
+            "label": "I Stand Up"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0022_idlenomore/manifest.json",
+            "label": "Idle No More"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_iftheywontletussleep/manifest.json",
+            "label": "If They Won't Let Us Dream"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0013_0016_ifyouhealwomen/manifest.json",
+            "label": "If You Heal Women You Transform the World"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0089_imaginenoborders/manifest.json",
+            "label": "Imagine No Borders"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0005_imagineaworld/manifest.json",
+            "label": "Imagine a World"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0233_imagine/manifest.json",
+            "label": "Imagine..."
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0021_imagingapartheidwall/manifest.json",
+            "label": "Imagining Apartheid"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0040_imagingapartheid/manifest.json",
+            "label": "Imagining Apartheid "
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0130_immigrationisbeautiful/manifest.json",
+            "label": "Immigration is Beautiful (Vandalised) I"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0063_inourfreefuture/manifest.json",
+            "label": "In Our Free Future"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0236_inourownhands/manifest.json",
+            "label": "In Our Own Hands"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0233_abolitionwithchildren/manifest.json",
+            "label": "In Our Own Hands"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0277_incorrageable/manifest.json",
+            "label": "Incorrageables"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0073_indianland/manifest.json",
+            "label": "Indian Land"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0082_indigenoussolidarity/manifest.json",
+            "label": "Indigenous Solidarity is Free Palestine"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0084_indigenouspeoples/manifest.json",
+            "label": "Indigneous Peoples for Black Lives"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0235_sometimesiwonder/manifest.json",
+            "label": "Innocent Windows"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0072_institutionalnightmare/manifest.json",
+            "label": "Institutional Nightmare"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0110_investtoeducate/manifest.json",
+            "label": "Invest to Educate"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_isthisourlandvancouver/manifest.json",
+            "label": "Is This Our Land? "
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0055_islandsback/manifest.json",
+            "label": "Islands Back Tropics Back"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0012_itslit/manifest.json",
+            "label": "It's Lit"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0114_itstimetoassert/manifest.json",
+            "label": "It's Time to Assert Our Solutions"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0003_johnbrown/manifest.json",
+            "label": "John Brown"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0291_0292_justiciaparalasmujeresinmigrantes/manifest.json",
+            "label": "Justcia Para las Mujeres Inmigrantes II"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0324_justice&peace/manifest.json",
+            "label": "Justice & Peace"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0194_justicefornahel/manifest.json",
+            "label": "Justice 4 Nahel!"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0044_justicecallsforcopless/manifest.json",
+            "label": "Justice Calls for a Copless Future"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0073_justiceforall/manifest.json",
+            "label": "Justice For All Indigenous Women"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0082_justiceforgaza/manifest.json",
+            "label": "Justice For Gaza"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0082_justiceformmiw/manifest.json",
+            "label": "Justice For Our Missing and Murdered Indigenous Women (MMIW)"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0221_justicevspunishment/manifest.json",
+            "label": "Justice vs Punishment"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0137_memorialmuralvictoriasalazar/manifest.json",
+            "label": "Justicia Para Victoria "
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_justiciaverdad/manifest.json",
+            "label": "Justicia Verdad Y Reparacion"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0047_keeplookingup/manifest.json",
+            "label": "Keep Looking Up!"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0349_keffiyehandaslingshot/manifest.json",
+            "label": "Keffiyeh Slingshot "
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0217_kevinclarke/manifest.json",
+            "label": "Kevin Clarke"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0229_kickthemout/manifest.json",
+            "label": "Kick Them Out"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_killcopsnottrees/manifest.json",
+            "label": "Kill Cops Not Trees"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0205_knowyourrights/manifest.json",
+            "label": "Know Your Rights"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0200_knowyourrights/manifest.json",
+            "label": "Know Your Rights"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0199_knowyourrights/manifest.json",
+            "label": "Know Your Rights"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0277_kuwohi/manifest.json",
+            "label": "Kuwohi"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0173_layutamedaamsiedad/manifest.json",
+            "label": "La Yuta Me Da Amsiedad, or \"The police give me anxiety\""
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0064_ladiesthatloveyou/manifest.json",
+            "label": "Ladies That Love You"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_justiceandchild/manifest.json",
+            "label": "Lady Justice and Child Break Down Walls"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_landback/manifest.json",
+            "label": "Land Back"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0087_landback/manifest.json",
+            "label": "Land Back"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0055_landback/manifest.json",
+            "label": "Land Back"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0055_landback2023/manifest.json",
+            "label": "Land Back"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_landbacknopipelines/manifest.json",
+            "label": "Land Back No Pipelines"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0043_landback/manifest.json",
+            "label": "Land Back for Turtle Island and Palestine"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0258_landback/manifest.json",
+            "label": "Land Back/Reparations/Abolition"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0077_landyouhavetokillfor/manifest.json",
+            "label": "Land You Have To Kill For"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0017_lawsarentreal/manifest.json",
+            "label": "Laws Aren't Real"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_leilakhaledmural/manifest.json",
+            "label": "Leila Khaled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0250_letmebeclear/manifest.json",
+            "label": "Let Me Be Clear"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0102_0104_letourpeoplefurlough/manifest.json",
+            "label": "Let Our People Furlough"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0226_letthisradicalizeyou/manifest.json",
+            "label": "Let This Radicalize You"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0237_letyouthlead/manifest.json",
+            "label": "Let the Youth Lead!"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0058_lethalaid/manifest.json",
+            "label": "Lethal Aid"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0261_letterwritingtodefenders/manifest.json",
+            "label": "Letter Writing to Jailed Forest Defenders"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0073_liberationisnotwhite/manifest.json",
+            "label": "Liberation Is Not White"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0105_liberationiscollective/manifest.json",
+            "label": "Liberation is a Collective Process"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0077_livingresistance/manifest.json",
+            "label": "Living Resistance"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0233_lapolicianonoscuida/manifest.json",
+            "label": "Lo Policia No Nos Cuida Nos Mata "
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0129_looneytunesabolition/manifest.json",
+            "label": "Looney Tunes Abolition"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0154_lushbloodcop/manifest.json",
+            "label": "Lush"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0324_lynchingoftheamericannegro/manifest.json",
+            "label": "Lynching of the American Negro"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0004_mariametaughtme/manifest.json",
+            "label": "Mariame Taught Me Postcards"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0005_marshapjohnson/manifest.json",
+            "label": "Marsh P. Johnson"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0129_marshajohnson/manifest.json",
+            "label": "Marsha Johnson "
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0117_fromcolombia/manifest.json",
+            "label": "May All Colonizers Fall"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0265_maythyriotgear/manifest.json",
+            "label": "May Thy Riot Gear Chip and Shatter"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0133_altonsterlingmemorial/manifest.json",
+            "label": "Memorial Mural of Alton Sterling "
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_jhonnysilvamemorial/manifest.json",
+            "label": "Memorial Mural of Jhonny Silva Aranguren"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0089_migrationisbeautiful/manifest.json",
+            "label": "Migration is Beautiful"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0001_minneapolice/manifest.json",
+            "label": "Minneapolice"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_breonnataylormother/manifest.json",
+            "label": "Mother and Daughter"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0226_movementsloganspack/manifest.json",
+            "label": "Movements Slogan Pack"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0233_movementswork/manifest.json",
+            "label": "Movements Work Within, Outside, & Beyond Prisons"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0233_movingbeyondcarceral/manifest.json",
+            "label": "Moving Beyond Carceral Approaches"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0112_mrsaandbilly/manifest.json",
+            "label": "Mrs. and Billy"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_murderingflowersbaghdad/manifest.json",
+            "label": "Murdering Flowers Will Not Delay a Spring "
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0043_0013_myancestorsmyshoes/manifest.json",
+            "label": "My Ancestors "
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0256_nationsareconstructs/manifest.json",
+            "label": "Nations Are Constructs"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0237_neighborhoodcopwatch/manifest.json",
+            "label": "Neighborhood Cop Watch"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0001_newbeginnings/manifest.json",
+            "label": "New Beginnings - Monarch Butterfly"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0233_nocopsallowed/manifest.json",
+            "label": "No Cops Allowed!!"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0123_nohateinmyholler/manifest.json",
+            "label": "No Hate in My Holler"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0184_nohumanbeingisillegal/manifest.json",
+            "label": "No Human Being is Illegal"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_nohumanbeingisillegal/manifest.json",
+            "label": "No Human Being is Illegal"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_nojusticeacabcarfire/manifest.json",
+            "label": "No Justice No Peace Abolish Police, ACAB"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0279_NoKKKRollerGirl/manifest.json",
+            "label": "No KKK Roller Girl"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0277_keystonepipeline/manifest.json",
+            "label": "No Keystone Pipeline"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0082_noline3/manifest.json",
+            "label": "No Line 3"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0082_noloop202/manifest.json",
+            "label": "No Loop 202"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0077_nomorestolensisters/manifest.json",
+            "label": "No More Stolen Sisters"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0121_nonewjails/manifest.json",
+            "label": "No New Jails NYC"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0232_tellgovno/manifest.json",
+            "label": "No New Women's Prison!"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0258_nonewyouthjail/manifest.json",
+            "label": "No New Youth Jail"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0005_nooneentersviolence/manifest.json",
+            "label": "No One Enters Violence"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0256_nooneisfree/manifest.json",
+            "label": "No One is Free Until All Are Free"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0089_nopipelinesonindigenousland/manifest.json",
+            "label": "No Pipelines On Indigenous Land"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0089_nopipelines/manifest.json",
+            "label": "No Pipelines in The Great Lakes"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0237_nowalls/manifest.json",
+            "label": "No Walls"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0258_noyouthjail/manifest.json",
+            "label": "No Youth Jail"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_notooppression/manifest.json",
+            "label": "No to Oppression "
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0171_georgefloydsyria/manifest.json",
+            "label": "No to Racism"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0179_notwar/manifest.json",
+            "label": "No \u00e9s una Guerra, \u00e9s un Genocidi (It is not a War, It is a Genocide)"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_nopermissiontobefree/manifest.json",
+            "label": "Non Dobbiamo Chiedere Il Permesso Per Essere Liberi"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0233_blacktohongkong/manifest.json",
+            "label": "Notes from Black Liberation to Hong Kong"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0229_nothingburnsdown/manifest.json",
+            "label": "Nothing Burns Down"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0001_nothingwithoutus/manifest.json",
+            "label": "Nothing Without Us"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0073_notreexistence/manifest.json",
+            "label": "Notre Existence Ne Sera Plus Jamais Silencieuse"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0024_oaklandisoccupied/manifest.json",
+            "label": "Oakland, CA, USA is Occupied Ohlone Land"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0233_onthisday/manifest.json",
+            "label": "On This Day"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0233_ontheroadabolition/manifest.json",
+            "label": "On the Road with Abolition"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0244_bossmakesadollar/manifest.json",
+            "label": "Organize"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0176_amadoudiallo/manifest.json",
+            "label": "Original Amadou Diallo Memorial Mural (2001)"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_oscargrantmemorial/manifest.json",
+            "label": "Oscar Grant Memorial Mural"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0055_ourlandisnotyourplayground/manifest.json",
+            "label": "Our Land is Not Your Playground"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_ourpassion/manifest.json",
+            "label": "Our Passion for Freedom is Stronger Than Your Prisons"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0227_ourvisionofaworld/manifest.json",
+            "label": "Our Vision of a World Without Prisons..."
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0082_ourworldisonfire/manifest.json",
+            "label": "Our World is on Fire"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0348_palestinesnoopykeffiyeh/manifest.json",
+            "label": "Palestine Snoopy Keffiyeh"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0030_ourpassionforfreedom/manifest.json",
+            "label": "Passion for Freedom Stronger Than Walls"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0265_nooption/manifest.json",
+            "label": "Peace Was Never An Option"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0097_peopleandplanet/manifest.json",
+            "label": "People and Planet"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0216_pizzanotprisons/manifest.json",
+            "label": "Pizza Not Prisons"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0253_batjpodswebinar/manifest.json",
+            "label": "Pods 101 "
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0233_abolitionincanada/manifest.json",
+            "label": "Police Abolition in Canada"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0055_policeabolitionisrj/manifest.json",
+            "label": "Police Abolition is Reproductive Justice"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0136_policefreeschools/manifest.json",
+            "label": "Police Free Schools"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0145_policeattackhospitalargentina/manifest.json",
+            "label": "Police Pig Argentina"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_policepigscartoon/manifest.json",
+            "label": "Police Pig Brazil"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_acabpolicepigcanada/manifest.json",
+            "label": "Police Pig Canada"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0146_0147_pigcopcigarcopenhagen/manifest.json",
+            "label": "Police Pig Denmark"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_policepigbulgingeyes/manifest.json",
+            "label": "Police Pig France"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0149_policepiggermany/manifest.json",
+            "label": "Police Pig Germany"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_quarantinepigs/manifest.json",
+            "label": "Police Pig Philippines"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_acabpolicepigicantbreathe/manifest.json",
+            "label": "Police Pig Portugal"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_acabpolicepigthailand/manifest.json",
+            "label": "Police Pig Thailand"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_policepigdonut/manifest.json",
+            "label": "Police Pig USA"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0148_abolitionpigcop/manifest.json",
+            "label": "Police Pig, D.C."
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0005_policeoutofpride/manifest.json",
+            "label": "Police out of Pride"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0115_practicingforaworld/manifest.json",
+            "label": "Practicing for an Abolitionist World"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_prisonabolitiontree/manifest.json",
+            "label": "Prison Abolition"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0227_prisonabolitionnncollective/manifest.json",
+            "label": "Prison Abolition Collective"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0233_prisonbyanyothername/manifest.json",
+            "label": "Prison By Any Other Name"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0037_prisonjusticeday/manifest.json",
+            "label": "Prison Justice Day"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0113_prisonjustice/manifest.json",
+            "label": "Prison Justice Movement Assembly"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0049_0050_prisonerwritings/manifest.json",
+            "label": "Prisoner Writings on Prison Abolition"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_prisonerinthemind/manifest.json",
+            "label": "Prisoner in the Mind"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0001_prisonwalls/manifest.json",
+            "label": "Prisons Can't Stop Love"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0003_prisonsdontwork/manifest.json",
+            "label": "Prisons Don\u2019t Work"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0031_prisonsslaveships/manifest.json",
+            "label": "Prisons: Slave Ships on Dry Land"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0063_pronk/manifest.json",
+            "label": "Pronk"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0076_protectblacklife/manifest.json",
+            "label": "Protect Black Life"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0024_protectgrandmother/manifest.json",
+            "label": "Protect Grandmother"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0077_protecticwa/manifest.json",
+            "label": "Protect ICWA"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0081_protectoakflat/manifest.json",
+            "label": "Protect Oak Flat"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0082_protectbodysov/manifest.json",
+            "label": "Protect Our Body Sovereignty"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0350_protectourflag/manifest.json",
+            "label": "Protect Our Flag "
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0099_protectourmother/manifest.json",
+            "label": "Protect Our Mother"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0096_protectsacredrivers/manifest.json",
+            "label": "Protect Sacred Rivers"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0094_protectsacredwaters/manifest.json",
+            "label": "Protect Sacred Waters #1"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0265_translives/manifest.json",
+            "label": "Protect Trans Lives"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0093_protectthesacred/manifest.json",
+            "label": "Protect the Sacred \u2013 Stop Line 3"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0024_protectthewater/manifest.json",
+            "label": "Protect the Water | Defend the Land"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0098_protectors/manifest.json",
+            "label": "Protect/Protectors\u2014Stop DAPL"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0324_protesters20/manifest.json",
+            "label": "Protesters '20"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0125_endpipeline/manifest.json",
+            "label": "Public School to Prison Pipeline"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0044_youthinpowernotprison/manifest.json",
+            "label": "Put Youth in Power Not Prison"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0054_queerfuture/manifest.json",
+            "label": "Queer Future Beyond"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_queerasinftp/manifest.json",
+            "label": "Queer as in FTP"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0052_queersdemand/manifest.json",
+            "label": "Queers Demand"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0080_racialcapitalism/manifest.json",
+            "label": "Racial Capitalism"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_angeladavisradicalroot/manifest.json",
+            "label": "Radical"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0025_cultivatehonorstrengthen/manifest.json",
+            "label": "Radical Imagination "
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0129_radicalwomen/manifest.json",
+            "label": "Radical Women "
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0244_rallyforpalestine/manifest.json",
+            "label": "Rally for Palestine"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0081_reclaimroots/manifest.json",
+            "label": "Reclaim Indigenous Roots"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0027_reclaimthecommons/manifest.json",
+            "label": "Reclaim the Commons"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0079_reconciliationisdead/manifest.json",
+            "label": "Reconciliation Is Dead"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0082_rematriate/manifest.json",
+            "label": "Rematriate the Land"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0025_repair/manifest.json",
+            "label": "Repair"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0233_reparations/manifest.json",
+            "label": "Reparations Learning Community"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_reparationsnow/manifest.json",
+            "label": "Reparations Now!"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0004_reparationsnow/manifest.json",
+            "label": "Reparations Now, Reparations Won!"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0126_angeladavis/manifest.json",
+            "label": "Reservoirs"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0048_resist/manifest.json",
+            "label": "Resist"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0237_resist/manifest.json",
+            "label": "Resist"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0229_resiststaterepression/manifest.json",
+            "label": "Resist State Repression"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0090_resistingcolonizerlaws/manifest.json",
+            "label": "Resisting Colonizer Laws"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0210_0211_restinpower/manifest.json",
+            "label": "Rest in Power"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0111_revolutionisnotaonetimeevent/manifest.json",
+            "label": "Revolution Is Not A One Time Event"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0129_richgetricher/manifest.json",
+            "label": "Rich Get Richer"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_riotcopcarefiremilan/manifest.json",
+            "label": "Riot"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0073_0083_riseup/manifest.json",
+            "label": "Rise Up"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0224_robertbaileykpd/manifest.json",
+            "label": "Robert Bailey"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0265_rojava/manifest.json",
+            "label": "Rojava"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0054_remembertoimagine/manifest.json",
+            "label": "Ruha Benjamin"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0080_safecommunities/manifest.json",
+            "label": "Safe Communities"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0061_wekeepussafe/manifest.json",
+            "label": "Safety Slogans"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0048_wekeepussafe/manifest.json",
+            "label": "Safety Slogans!"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_transformativejustice/manifest.json",
+            "label": "Safety in Our Communities & Transformative Justice"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0005_safetyis/manifest.json",
+            "label": "Safety is Caring for Our Neighbors"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0025_safetyorcontrol/manifest.json",
+            "label": "Safety or Control"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0206_0207_safetywithoutpolice/manifest.json",
+            "label": "Safety without Police"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0164_saggingpants/manifest.json",
+            "label": "Sagging Pants is Not Probable Cause"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0065_sanquentin/manifest.json",
+            "label": "San Quentin Arts in Corrections Art Studio"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0212_0213_sandrablandottowa/manifest.json",
+            "label": "Sandra Bland"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0081_sangredelos/manifest.json",
+            "label": "Sangre De Los Pueblos Indigenas"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0233_jailisunsafe/manifest.json",
+            "label": "Santa Rita is Unsafe for Us All! "
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0166_0167_0168_sayhername/manifest.json",
+            "label": "Say Her Name: Kayla Moore, Breonna Taylor, Nia Wilson, Charlena Lyles "
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0160_saytheirnames/manifest.json",
+            "label": "Say Their Names"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0161_0162_0307_saytheirnames/manifest.json",
+            "label": "Say Their Names: David McAtee, Sandra Bland, Breonna Taylor, Elijah McClain, Ahmaud Arbery, George Floyd"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0163_saytheirnames/manifest.json",
+            "label": "Say Their Names: Dontre Hamilton, Sandra Bland, Sylville Smith"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_sayitloudclear/manifest.json",
+            "label": "Say it LOUD, Say it CLEAR"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0231_sayitloud/manifest.json",
+            "label": "Say it LOUD, Say it CLEAR"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_copbloodeye/manifest.json",
+            "label": "Seen"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0279_selfportrait/manifest.json",
+            "label": "Self Portrait "
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0279_selu_oo/manifest.json",
+            "label": "Selu"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0006_semillasenresistencia/manifest.json",
+            "label": "Semillasen Resistencia"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0265_quityourjob/manifest.json",
+            "label": "Serve Your Community Quit Your Job!"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0233_resistancecontinues/manifest.json",
+            "label": "Settler Colonialism & Indigenous Resistance"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0082_shelterformysisters/manifest.json",
+            "label": "Shelter for My Sisters"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0115_shifttocare/manifest.json",
+            "label": "Shift to Economies of Care"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0204_carnames/manifest.json",
+            "label": "Sixteen Names"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0027_smokepolice/manifest.json",
+            "label": "Smoke and Police"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0233_socialworkersstoppolice/manifest.json",
+            "label": "Social Workers Should Stop Policing!"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_copcarfiresolidarity/manifest.json",
+            "label": "Solidarity"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0172_solidarityknows/manifest.json",
+            "label": "Solidarity Knows No Borders"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_solidaritypows/manifest.json",
+            "label": "Solidarity P.O.W.s"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0034_prisonstrikeprotest/manifest.json",
+            "label": "Solidarity w/ Prisoner Hunger Strikes"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0022_0024_solidaritywithstandingrock/manifest.json",
+            "label": "Solidarity with Standing Rock"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0170_tibettaiwansolidarity/manifest.json",
+            "label": "Solidarity with Taiwan "
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0183_solidarityfromcroatia/manifest.json",
+            "label": "Solidarno S Revolucijom U Rojavi (Solidarity With the Revolution in Rojava)"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0086_someofus/manifest.json",
+            "label": "Some of Us Never Came Home"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0025_0273_whenspeaking/manifest.json",
+            "label": "Someone Who Has Been Harmed"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0004_soundsofabolition/manifest.json",
+            "label": "Sounds of Abolition"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0041_stephanieandmajor/manifest.json",
+            "label": "Stephanie and Major"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0025_steppingintoaccountability/manifest.json",
+            "label": "Stepping into Our Accountability"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0155_stillhere/manifest.json",
+            "label": "Still Here"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0012_bootstompcopcar/manifest.json",
+            "label": "Stomp"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0264_begaydocrimestonewall/manifest.json",
+            "label": "Stonewall"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0228_stonewallpoliceriot/manifest.json",
+            "label": "Stonewall Was a Police Riot"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0244_stopcopcity/manifest.json",
+            "label": "Stop Cop City"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0265_stopcopcity/manifest.json",
+            "label": "Stop Cop City"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_stopcopcity/manifest.json",
+            "label": "Stop Cop City"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0258_stopcopcity/manifest.json",
+            "label": "Stop Cop City"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0263_stopcopcity/manifest.json",
+            "label": "Stop Cop City"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0259_stopcopcity/manifest.json",
+            "label": "Stop Cop City "
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0262_stopcopcity/manifest.json",
+            "label": "Stop Cop City!"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0197_nocriminalization/manifest.json",
+            "label": "Stop Criminalization"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0243_stoppolicebrutality/manifest.json",
+            "label": "Stop Police Brutality"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0220_stopgenocidecongo/manifest.json",
+            "label": "Stop the Genocide in Congo"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_stopthegenocide/manifest.json",
+            "label": "Stop the Genocide in Gaza Now!"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0022_stoptheraids/manifest.json",
+            "label": "Stop the Raids"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0237_stopthewarmachine/manifest.json",
+            "label": "Stop the War Machine"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_treebustswall/manifest.json",
+            "label": "Stronger than Walls"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0251_survivalastj/manifest.json",
+            "label": "Survival as Transformative Justice"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0082_survived/manifest.json",
+            "label": "Survived On the Rise"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0229_talktoplantsnotcops/manifest.json",
+            "label": "Talk to Plants Not Cops"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0265_tankandtree/manifest.json",
+            "label": "Tank and Tree"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0233_thestate/manifest.json",
+            "label": "The \"State\""
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0324_the5ps/manifest.json",
+            "label": "The 5 P's: Look How Sick This Ghetto Made Us"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0041_ruthiemuralflora/manifest.json",
+            "label": "The Abolitionist Spirit of Ruth Wilson Gilmore "
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0063_thebreatheact/manifest.json",
+            "label": "The Breathe Act"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0233_anewuprising/manifest.json",
+            "label": "The Fire This Time"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0221_fruitsoffreedom/manifest.json",
+            "label": "The Fruits of Freedom"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0055_thefutureispolicefree/manifest.json",
+            "label": "The Future is Police Free"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0233_goalisdefund/manifest.json",
+            "label": "The Goal is Still Defund the Police!!"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0081_thegreatseal/manifest.json",
+            "label": "The Great Seal of the Halluci Nation"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0237_theheartofourcommunity/manifest.json",
+            "label": "The Heart of Community"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_theimpossibleweight/manifest.json",
+            "label": "The Impossible Wait of Housing"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0257_themailcrosses/manifest.json",
+            "label": "The Mail Crosses Borders, Gates, & Walls"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0233_pandemicportal/manifest.json",
+            "label": "The Pandemic is a Portal"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0129_thepittpantherartattack/manifest.json",
+            "label": "The Pitt Panther Art Attack "
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0102_0104_thestateisresponsible/manifest.json",
+            "label": "The State is Responsible"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0236_thestruggle/manifest.json",
+            "label": "The Struggle"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0118_thetimetofightback/manifest.json",
+            "label": "The Time to Fight Back is Now"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0002_atimebeforepolice/manifest.json",
+            "label": "There Was A Time Before Police And There Will Be A Time After"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0107_lifebeforepolice/manifest.json",
+            "label": "There Was Life Before the Police"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0261_stopcopcity/manifest.json",
+            "label": "They Won't Stop at One"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0316_thislifeiskillingme/manifest.json",
+            "label": "This Life Is Killing Me"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0120_thistooshallfall/manifest.json",
+            "label": "This Too Shall Fall / Tambi\u00e9n Caer\u00e1"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0260_stopcopcity/manifest.json",
+            "label": "This is not just a policing issue"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0158_timetochangetheworld/manifest.json",
+            "label": "Time to Change the World"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0089_todayandeveryday/manifest.json",
+            "label": "Today & Everyday"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0184_0124_togetherwerise/manifest.json",
+            "label": "Together We Rise"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0229_tort/manifest.json",
+            "label": "Tort"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_tortuguitavive/manifest.json",
+            "label": "Tortuguita Vive, La Lucha Sigue (Little Turtle Lives, The Fight Continues)"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_touthadderekchauvinpigs/manifest.json",
+            "label": "Tou Thad and Derek Chauvin as Pigs"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0229_transliberation/manifest.json",
+            "label": "Trans Liberation"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0230_transstatepen/manifest.json",
+            "label": "Trans State Pen"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0108_transformativejustice/manifest.json",
+            "label": "Transformative Justice"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0250_0252_transformativejustice/manifest.json",
+            "label": "Transformative Justice"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0255_trapped/manifest.json",
+            "label": "Trapped"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_trayvonmartinmural/manifest.json",
+            "label": "Trayvon Martin"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0001_TrayvonMartin/manifest.json",
+            "label": "Trayvon Martin - Black Mothers' Sons"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0001_troydavis/manifest.json",
+            "label": "Troy Davis "
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0044_0218_turncopstofossils/manifest.json",
+            "label": "Turn the Cops to Fossils"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0095_turtleisland/manifest.json",
+            "label": "Turtle Island"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0020_unmondesanspolice/manifest.json",
+            "label": "Un Monde Sans Police"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0003_thebeach/manifest.json",
+            "label": "Under the Burning Cop Cars, the Beach"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0129_virginiatorturechamber/manifest.json",
+            "label": "Virginia Torture Chamber"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_anarquiafire/manifest.json",
+            "label": "Visca l\u2019anarquia!"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0209_vivalarebelion/manifest.json",
+            "label": "Viva La Rebelion"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_vivalarevolucion/manifest.json",
+            "label": "Viva La Revoluci\u00f3n Bolivariana"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_walaaloisjeceylgeorgefloydphoenix/manifest.json",
+            "label": "Walaalo is Jeceyl and George Floyd in the Wings of a Phoenix"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0003_walterrodney/manifest.json",
+            "label": "Walter Rodney"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0245_tobeblunt/manifest.json",
+            "label": "War on Drugs"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0001_washingoneshands/manifest.json",
+            "label": "Washing One's Hands"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0277_waterspider/manifest.json",
+            "label": "Water Spider"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0129_waterislife/manifest.json",
+            "label": "Water is Life "
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0089_waterismedicine/manifest.json",
+            "label": "Water is Medicine. Water is Not a Weapon [of State Violence]."
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0081_waterissacred/manifest.json",
+            "label": "Water is Sacred"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0082_okwaokchayo/manifest.json",
+            "label": "Water is Sacred"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0026_borninflames/manifest.json",
+            "label": "We Are Born in Flames"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0008_wearenotprotestors/manifest.json",
+            "label": "We Are Not Protestors. We Are Protect/Protectors."
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0353_weareolderthanyourlaws/manifest.json",
+            "label": "We Are Older Than Your Laws "
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0063_weareuniversal/manifest.json",
+            "label": "We Are Universal"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_weareunstoppable/manifest.json",
+            "label": "We Are Unstoppable"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0008_wecametofight/manifest.json",
+            "label": "We Came to Fight A Black Snake"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0004_wechargegenocide/manifest.json",
+            "label": "We Charge Genocide"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0258_wecouldhavebuiltanything/manifest.json",
+            "label": "We Could Have Built Anything"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0063_wecreatepossibility/manifest.json",
+            "label": "We Create Possibility"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0003_wedemand/manifest.json",
+            "label": "We Demand"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0063_wefindsafety/manifest.json",
+            "label": "We Find Safety"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0026_wehaveeverythingweneed/manifest.json",
+            "label": "We Have Everything We Need to Be Safe"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0013_0014_wecantdoitalone/manifest.json",
+            "label": "We Have the Power to Transform the World"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0353_wekeepeachothersafeandwarm/manifest.json",
+            "label": "We Keep Each Other Safe and Warm"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0229_wekeepussafe/manifest.json",
+            "label": "We Keep Us Safe"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0349_wekeepussafe/manifest.json",
+            "label": "We Keep Us Safe "
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0017_wemadethisworld/manifest.json",
+            "label": "We Made this World, We Can Make Another"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0296_westillchargegenocide/manifest.json",
+            "label": "We Still Charge Genocide"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0005_weholdeachother/manifest.json",
+            "label": "We Will Hold Each Other Through the Fires"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0005_wewillhold/manifest.json",
+            "label": "We Will Hold Each Other Through the Waters"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0092_wewillrebuild/manifest.json",
+            "label": "We Will Rebuild Together"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0092_wearehere/manifest.json",
+            "label": "We are Here to Protect the Water \u2013 Stop Line 3"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0144_educatetoliberate/manifest.json",
+            "label": "Whakaako Kia Whakaora Educate to Liberate 1"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0005_mariamekaba/manifest.json",
+            "label": "What Can We Build Instead"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0025_abolitioninvitesus/manifest.json",
+            "label": "What Can We Imagine"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0318_whatwelose/manifest.json",
+            "label": "What We Lose"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0233_whatisaccountability/manifest.json",
+            "label": "What is Accountability?"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0129_whatisleft/manifest.json",
+            "label": "What is Left?"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0248_whatisrj/manifest.json",
+            "label": "What is Restorative Justice?"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0144_whatisapig/manifest.json",
+            "label": "What is a Pig?"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0025_whenigetmyfreedom/manifest.json",
+            "label": "When I Get My Freedom"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0073_whitesupremacyiskilling/manifest.json",
+            "label": "White Supremacy Is Kiling"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0225_whodoicall/manifest.json",
+            "label": "Who Do I Call? "
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0321_wholearnsfromthis/manifest.json",
+            "label": "Who Learns From This?"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0053_0013_everybreath/manifest.json",
+            "label": "With Every Breath "
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_georgefloydjapan/manifest.json",
+            "label": "Woman Paints George Floyd "
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0140_womanwhofilmed/manifest.json",
+            "label": "Woman Who Filmed Abused By Police Officers Is Beaten And Arrested."
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0085_womenandtwospirits/manifest.json",
+            "label": "Women & Two Spirits Are the Backbone of Every Tribe."
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0221_womensliberationmeansaworldwithoutpolice/manifest.json",
+            "label": "Women's Liberation Means a World Without Police"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0348_woodstockwatermelonkeffiyeh/manifest.json",
+            "label": "Woodstock Watermelon Keffiyeh "
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0249_wordsbreakdownwalls/manifest.json",
+            "label": "Words Break Down Walls"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0073_writeback/manifest.json",
+            "label": "Write Back"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0087_yearsofresistance/manifest.json",
+            "label": "Years of Resistance"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0109_youarenotforgotten/manifest.json",
+            "label": "You Are Not Forgotten"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0039_yourepartoftheworld/manifest.json",
+            "label": "You Are Part of the World"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0032_yourepartoftheworld/manifest.json",
+            "label": "You Are Part of the World"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_youchangedtheworld/manifest.json",
+            "label": "You Changed the World, George"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0059_0060_youhavestruckarock/manifest.json",
+            "label": "You Have Struck a Rock"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0222_yourevotingonnativeland/manifest.json",
+            "label": "You're Voting on Native Land"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0112_yourblackfriend/manifest.json",
+            "label": "Your Black Friend"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0073_youthsoeducated/manifest.json",
+            "label": "Youth So Educated Are Dangerous"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_drugwarfailure/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0003_noprideingenocide/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_abolishcontrolunitprisons/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_acabbeginning/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_aguaesvida/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_aimalcatraz/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_anotherworldussocialforum/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_artispassion/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_atticafilm/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_beautedanslarue/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_confrontmedia/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_copsandvamps/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_cultureshock/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_defenddemandhousing/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_demandethnicstudies/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_destructionofallprisons/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_disarmthenypd/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_flagprisonfree/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_freejerseyfour/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_freepalestine/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_ftp/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_genocidenotjustice/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_georgiaprisonstrike/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_indianland/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_indymedia/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_investinfamilies/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_istandwithstandingrock/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_justiceforfreddie/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_layutachile/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_makemedia/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_mediajusticenow/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_morepirateradio/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_nodapl/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_nodaplstandingrock/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_nojusticeindigenousresist/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_nomore/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_nomoredams/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_notafraidofruins/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_offapig/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_ouroakland/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_picturingworld/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_plugintomediajustice/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_powertotheconvictedclass/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_razethewalls/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_reproductivehealth/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_rumbling/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_seekoutindynews/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_shelterisabasicrightvmelbourne/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_sicksacred/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_sizeshu/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_socialforcesprison/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_stopab900/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_stopforceddrugging/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_stopmilitarisminschools/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_stoptheraids/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_studentsuniting/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_summerjamsuperjail/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_supportindependentmedia/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_talktoyourneighbors/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_tencorps/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_thisendstoday/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_todossomos/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_uprisingfireprotest/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_visualresistance/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_waterisaweapon/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_waterlife/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_wearenotenemy/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_wecantwait/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_wedemandrj/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_wewillnotcomply/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_withouthecapital/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0007_wringoutfairlea/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0024_0022_hungryforjustice/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0040_colossalwoman/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0125_ourkidswillnotbenext/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0266_0277_mocpcherokeeland/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0266_grandmotherweaving/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0266_honestinjun/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0266_howdoyousaypig/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0266_indigenousland/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0266_mocpcherokeeland/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0266_nativepeopleshouldneversuffer/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0266_onlyindigenousways/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0266_thatsourland/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0266_tomahawkchop/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0266_tribalpolicehiring/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0266_uktenatuesdayselfpotrait/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0266_welcomestereotypes/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0266_youreonstolenland/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0277_cherokeelandpatches/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0277_incorrageablesavages/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0277_oncherokeeland/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0277_oncherokeelandsign/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0280_stopcopcity/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0281_stopthegenocide/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0282_ifanotherworldispossible/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0283_anotherworldispossible/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0284_jaahnavislifemattered/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0285_trayvonmartinmural/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0286_defendblacklives/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0287_abolition/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0288_copsarentworkers/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0288_nocops/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0290_menagainstsexism/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0025_dismantledefund/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0025_dismantleice/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0025_endusimperialism/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0025_freethemall/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0025_imagineaworld/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0025_noborders/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0025_riseupagainstgenocide/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0025_smallactsofcare/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0025_thefutureismutualaid/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0025_turningover/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0025_uproottendencies/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0028_costofwar/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0028_donthideus/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0028_endisraeliocc/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0028_endyouthincarceration/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0028_homelessvoices/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0028_nodap/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0028_ourland/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0028_restorativejustice/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0028_seekingsafety/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0028_waterislife/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0028_waterisourlife/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0028_wontbesilent/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0042_0298_defundingpolice/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0042_0298_defundingpolicehousing/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0042_0298_defundingpolicemigrant/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0042_0298_violenceprevention/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0042_defundingpolice/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0042_defundingpolicefood/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0043_decolonizenow/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0043_noprideingenocide/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0043_panestinalib/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0078_oldhills/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0080_millionsfor/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0123_communitynotprisons/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0126_0278_0113_culturalorganizing/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0219_ceasefirenow/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0219_endpoliceviolencenigeria/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0219_freethemall/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0264_housingishealthcare/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0267_nonationsnoborders/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0267_nowarbutclasswar/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0268_0269_freethemall/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0268_freepalestine/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0270_alleyesonrafah/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0270_globalstrike/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0270_noneofusarefree/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0271_anotherworldispossible/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0271_weaponsdealers/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0272_defundthepolice/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0272_demandutopia/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0272_yesacab/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0274_abolitionnow/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0275_defund/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0275_reimagine/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0276_nostate/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0276_publicmoney/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0297_refugees/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0298_0042_stopcopaganda/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0298_allpower/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0298_defundzoopolice/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0298_freethemall/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0298_freethemalloilpastel/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0298_housingjustice/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0298_mastamales/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0298_noshelter/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0298_polenotpolice/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0299_beenches/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0299_brakelights/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0299_crisis/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0299_eratically/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0299_incidents/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0299_intoxicated/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0299_sellingdrugs/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0299_snooping/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0299_talking/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0299_violence/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0300_mixtape/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0301_abolishpoliceabolishprisons/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0301_smellofhome/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0301_unsuenoyovivi/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0305_neverforget/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0305_unravelling/manifest.json",
+            "label": "Untitled"
+        },
+        {
+            "@id": "https://iiif.archive.org/iiif/an_0304_theabolitionistsinthepark/manifest.json",
+            "label": "Untitled"
+        }
+    ]
+}
