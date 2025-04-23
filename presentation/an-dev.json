@@ -1,0 +1,292 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/abolition-now/iiif/refs/heads/main/presentation/an-dev.json",
+  "type": "Collection",
+  "label": {
+    "none": ["abolition now."]
+  },
+  "items": [
+    {
+      "id": "https://iiif.archive.org/iiif/an_0004_abolitionnow_interview/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": ["Abolition Now"]
+      }
+    },
+    {
+      "id": "https://iiif.archive.org/iiif/an_0001_anotherworldispossible_interview/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": ["Another World Is Possible"]
+      }
+    },
+    {
+      "id": "https://iiif.archive.org/iiif/an_0038_anotherworldispossible_interview/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": ["Another World is Possible"]
+      }
+    },
+    {
+      "id": "https://iiif.archive.org/iiif/an_0005_southerntransresistance_interview/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": ["Art of Trans Liberation"]
+      }
+    },
+    {
+      "id": "https://iiif.archive.org/iiif/an_0277_buffalotown_interview/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": ["Buffalotown"]
+      }
+    },
+    {
+      "id": "https://iiif.archive.org/iiif/an_0126_0278_0113_culturalorganizing_interview/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": ["Cultural Organizing 101: Train the Trainers"]
+      }
+    },
+    {
+      "id": "https://iiif.archive.org/iiif/an_0279_deerwomxn_interview/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": ["Deer Womxn"]
+      }
+    },
+    {
+      "id": "https://iiif.archive.org/iiif/an_0004_defendourcommunities_interview/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": ["Defend Our Communities, Defund Police"]
+      }
+    },
+    {
+      "id": "https://iiif.archive.org/iiif/an_0005_0074_disabilityjustice_interview/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": ["Disability Justice"]
+      }
+    },
+    {
+      "id": "https://iiif.archive.org/iiif/an_0266_indigenousland_interview/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": ["Entering Indigenous Land"]
+      }
+    },
+    {
+      "id": "https://iiif.archive.org/iiif/an_0266_grandmotherpinchpot_interview/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": ["Grandmother Making Pinch Pot"]
+      }
+    },
+    {
+      "id": "https://iiif.archive.org/iiif/an_0266_grandmotherweaving_interview/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": ["Grandmother Weaving"]
+      }
+    },
+    {
+      "id": "https://iiif.archive.org/iiif/an_0004_hopeisadiscipline_interview/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": ["Hope Is A Discipline"]
+      }
+    },
+    {
+      "id": "https://iiif.archive.org/iiif/an_0005_seemyneighbors_interview/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": ["I See My Neighbors"]
+      }
+    },
+    {
+      "id": "https://iiif.archive.org/iiif/an_0063_inourfreefuture_interview/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": ["In Our Free Future"]
+      }
+    },
+    {
+      "id": "https://iiif.archive.org/iiif/an_0277_incorrageable_interview/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": ["Incorrageables"]
+      }
+    },
+    {
+      "id": "https://iiif.archive.org/iiif/an_0277_kuwohi_interview/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": ["Kuwohi"]
+      }
+    },
+    {
+      "id": "https://iiif.archive.org/iiif/an_0005_marshapjohnson_interview/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": ["Marsh P. Johnson"]
+      }
+    },
+    {
+      "id": "https://iiif.archive.org/iiif/an_0001_minneapolice_interview/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": ["Minneapolice"]
+      }
+    },
+    {
+      "id": "https://iiif.archive.org/iiif/an_0266_0277_mocpcherokeeland_interview/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": ["Museum of Cherokee People Sign"]
+      }
+    },
+    {
+      "id": "https://iiif.archive.org/iiif/an_0277_mocpcherokeeland_oo_interview/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": ["Museum of the Cherokee People Sign"]
+      }
+    },
+    {
+      "id": "https://iiif.archive.org/iiif/an_0266_mocpcherokeeland_interview/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": ["Museum of the Cherokee People Sign"]
+      }
+    },
+    {
+      "id": "https://iiif.archive.org/iiif/an_0123_nohateinmyholler_interview/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": ["No Hate in My Holler"]
+      }
+    },
+    {
+      "id": "https://iiif.archive.org/iiif/an_0279_NoKKKRollerGirl_interview/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": ["No KKK Roller Girl"]
+      }
+    },
+    {
+      "id": "https://iiif.archive.org/iiif/an_0277_keystonepipeline_interview/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": ["No Keystone Pipeline"]
+      }
+    },
+    {
+      "id": "https://iiif.archive.org/iiif/an_0005_nooneentersviolence_interview/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": ["No One Enters Violence"]
+      }
+    },
+    {
+      "id": "https://iiif.archive.org/iiif/an_0063_pronk_interview/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": ["Pronk"]
+      }
+    },
+    {
+      "id": "https://iiif.archive.org/iiif/an_0004_reparationsnow_interview/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": ["Reparations Now, Reparations Won!"]
+      }
+    },
+    {
+      "id": "https://iiif.archive.org/iiif/an_0279_selfportrait_interview/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": ["Self Portrait"]
+      }
+    },
+    {
+      "id": "https://iiif.archive.org/iiif/an_0279_selu_oo_interview/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": ["Selu"]
+      }
+    },
+    {
+      "id": "https://iiif.archive.org/iiif/an_0004_soundsofabolition_interview/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": ["Sounds of Abolition"]
+      }
+    },
+    {
+      "id": "https://iiif.archive.org/iiif/an_0002_atimebeforepolice_interview/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "There Was A Time Before Police And There Will Be A Time After"
+        ]
+      }
+    },
+    {
+      "id": "https://iiif.archive.org/iiif/an_0001_TrayvonMartin_interview/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": ["Trayvon Martin - Black Mothers' Sons"]
+      }
+    },
+    {
+      "id": "https://iiif.archive.org/iiif/an_0266_tribalpolicehiring_interview/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": ["Tribal Police is Now Hiring"]
+      }
+    },
+    {
+      "id": "https://iiif.archive.org/iiif/an_0266_uktenatuesdayselfpotrait_interview/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": ["Uktena Tuesday Self Portrait"]
+      }
+    },
+    {
+      "id": "https://iiif.archive.org/iiif/an_0003_thebeach_interview/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": ["Under the Burning Cop Cars, the Beach"]
+      }
+    },
+    {
+      "id": "https://iiif.archive.org/iiif/an_0277_waterspider_interview/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": ["Water Spider"]
+      }
+    },
+    {
+      "id": "https://iiif.archive.org/iiif/an_0063_weareuniversal_interview/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": ["We Are Universal"]
+      }
+    },
+    {
+      "id": "https://iiif.archive.org/iiif/an_0004_wechargegenocide_interview/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": ["We Charge Genocide"]
+      }
+    },
+    {
+      "id": "https://iiif.archive.org/iiif/an_0063_wefindsafety_interview/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": ["We Find Safety"]
+      }
+    }
+  ]
+}
